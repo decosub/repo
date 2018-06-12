@@ -22,6 +22,12 @@
     <provides>video</provides>
   </extension>
 
+      <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/xxxxxxxxxxxxxxxxxxxx/Repo/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/decosub/repo/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/decosub/master/Repositorio/</datadir>
+    </extension>
+	
   <extension point="xbmc.addon.metadata">
     <summary>by Decosub 2018</summary>
     <description>Crecimiento y desarollo personal: Añadido nuevo contenido y restructurado el addon completo</description>
