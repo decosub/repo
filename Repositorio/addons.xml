@@ -23,14 +23,14 @@
     <provides>video</provides>
   </extension>
 
-      <extension point="xbmc.addon.repository" name="Mi repositorio">
+      <extension point="xbmc.addon.repository" name="Decosub">
         <info>https://raw.githubusercontent.com/xxxxxxxxxxxxxxxxxxxx/Repo/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/decosub/repo/master/Repositorio/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/decosub/master/Repositorio/</datadir>
     </extension>
 
   <extension point="xbmc.addon.metadata">
-    <summary>by Decosub 2018</summary>
+    <summary>Crecimiento y desarollo personal: Añadido nuevo contenido y restructurado el addon completo</summary>
     <description>Crecimiento y desarollo personal: Añadido nuevo contenido y restructurado el addon completo</description>
     <platform>all</platform>
   </extension>
@@ -63,7 +63,7 @@
     <provides>video</provides>
   </extension>
 
-  <extension point="xbmc.addon.repository" name="Mi repositorio">
+  <extension point="xbmc.addon.repository" name="Decosub">
         <info>https://raw.githubusercontent.com/xxxxxxxxxxxxxxxxxxxx/Repo/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/decosub/repo/master/Repositorio/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/decosub/master/Repositorio/</datadir>
@@ -119,7 +119,7 @@
         <checksum></checksum>
         <datadir zip="false"></datadir>
     </extension>
-    <summary> </summary>
+    <summary>Addon tematico dedicado a otros mundos, conspiraciones y demas temas de interes, basado en Youtube con licencia GNU GPL. </summary>
     <description>Addon tematico dedicado a otros mundos, basado en Youtube con licencia GNU GPL.</description>
     <platform>all</platform>
   </extension>
@@ -151,21 +151,21 @@
     <provides>video</provides>
   </extension>
 
-      <extension point="xbmc.addon.repository" name="decosub">
+      <extension point="xbmc.addon.repository" name="Decosub">
         <info>https://raw.githubusercontent.com/xxxxxxxxxxxxxxxxxxxx/Repo/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/decosub/repo/master/Repositorio/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/decosub/master/Repositorio/</datadir>
      </extension>
 
   <extension point="xbmc.addon.metadata">
-     <summary> </summary>
+     <summary>Idea original de Mahs80(@Mahs8013)...Addon tematico dedicado a Ciencia y Fisica de todos los tiempos.. descubre los limites de la ciencia, los mayores descubrimientos, los grandes pènsadores de todas las epocas... basado en Youtube con licencia GNU GPL. </summary>
     <description>Idea original de Mahs80(@Mahs8013)...Addon tematico dedicado a Ciencia y Fisica de todos los tiempos.. descubre los limites de la ciencia, los mayores descubrimientos, los grandes pènsadores de todas las epocas... basado en Youtube con licencia GNU GPL.</description>
     <platform>all</platform>
   </extension>
 </addon>
 
 <addon id="repository.decosub" name="[COLOR lime]Decosub[/COLOR] Repo" version="0.0.1" provider-name="Decosub">
-    <extension point="xbmc.addon.repository" name="Mi repositorio">
+    <extension point="xbmc.addon.repository" name="Decosub">
         <info>https://raw.githubusercontent.com/decosub/repo/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/decosub/repo/master/Repositorio/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/decosub/repo/master/Repositorio/</datadir>
